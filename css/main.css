@@ -112,7 +112,7 @@ body {
   box-sizing: border-box;
   padding-bottom: 200px;
   padding-left: 185px;
-  padding-top: 225px;
+  padding-top: 300px;
   position: relative; }
 
 .error-404 .wrapper {
@@ -207,7 +207,7 @@ p {
   color: #757575;
   text-decoration: underline; }
   .copy a.read-more {
-    color: #00b0d6;
+    color: #ff3d6c;
     text-decoration: none; }
     .copy a.read-more:hover {
       color: #7f0a0f; }
@@ -287,7 +287,7 @@ p {
   #products .more {
     display: none; }
   #products .reveal-more {
-    color: #00bcd4;
+    color: #ff3d6c;
     cursor: pointer; }
   #products .product {
     margin-bottom: 20px; }

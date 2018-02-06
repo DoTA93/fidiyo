@@ -282,11 +282,14 @@ p {
   padding-top: 90px; }
   #products h2 {
     font-size: 22px;
-    line-height: 1.53; }
+    line-height: 1.53;
+    margin-top: 0; }
   #products .more {
     display: none; }
   #products .reveal-more {
     color: #00bcd4;
     cursor: pointer; }
+  #products .product {
+    margin-bottom: 20px; }
 
 /*# sourceMappingURL=main.css.map */

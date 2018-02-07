@@ -112,7 +112,7 @@ body {
   box-sizing: border-box;
   padding-bottom: 200px;
   padding-left: 185px;
-  padding-top: 300px;
+  padding-top: 270px;
   position: relative; }
 
 .error-404 .wrapper {
@@ -265,6 +265,15 @@ img {
   max-width: 1200px;
   margin: 0 auto; }
 
+@media all and (min-width: 768px) {
+  .on-mobile {
+    display: none !important; } }
+@media all and (max-width: 767px) {
+  .on-mobile {
+    display: inline-block !important; }
+
+  .on-desktop {
+    display: none !important; } }
 #menu .mdl-menu__item {
   display: block; }
 
@@ -291,5 +300,8 @@ p {
     cursor: pointer; }
   #products .product {
     margin-bottom: 20px; }
+  #products .hide-more {
+    color: #ff3d6c;
+    cursor: pointer; }
 
 /*# sourceMappingURL=main.css.map */

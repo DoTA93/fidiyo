@@ -238,12 +238,12 @@ h1 {
   font: 0/0 a;
   text-shadow: none;
   background: url(../img/logo.png) 0 0 no-repeat;
-  background-size: 52px 24px;
+  background-size: 60px 24px;
   height: 24px;
   left: 36px;
   position: absolute;
   top: 27px;
-  width: 52px;
+  width: 60px;
   z-index: 999; }
 
 #ourlogo {

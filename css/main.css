@@ -243,7 +243,7 @@ h1 {
   left: 36px;
   position: absolute;
   top: 27px;
-  width: 60px;
+  width: 52px;
   z-index: 999; }
 
 #ourlogo {
@@ -303,7 +303,8 @@ p {
   font-family: "Open Sans", sans-serif, Arial, Helvetica, sans-serif; }
 
 #products {
-  padding-top: 90px; }
+  padding-top: 90px;
+  min-height: calc(100vh - 70px); }
   #products h2 {
     font-size: 22px;
     line-height: 1.53;
